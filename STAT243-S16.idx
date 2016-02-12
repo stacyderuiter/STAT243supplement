@@ -1,0 +1,66 @@
+\indexentry{\texttt  {iris}|hyperpage}{4}
+\indexentry{\texttt  {datasets}|hyperpage}{4}
+\indexentry{\texttt  {rflip()}|hyperpage}{5}
+\indexentry{\texttt  {do()}|hyperpage}{5}
+\indexentry{\texttt  {rflip()}|hyperpage}{5}
+\indexentry{\texttt  {resample()}|hyperpage}{6}
+\indexentry{\texttt  {data.frame()}|hyperpage}{7}
+\indexentry{conditional probability|hyperindexformat{\defidx}}{12}
+\indexentry{dice|hyperindexformat{\exampleidx}}{14}
+\indexentry{cards|hyperindexformat{\exampleidx}}{14}
+\indexentry{medical testing|hyperindexformat{\exampleidx}}{15}
+\indexentry{independent events|hyperindexformat{\defidx}}{16}
+\indexentry{\texttt  {rflip()}|hyperpage}{17}
+\indexentry{\texttt  {resample()}|hyperpage}{17}
+\indexentry{\texttt  {sample()}|hyperpage}{17}
+\indexentry{\texttt  {deal()}|hyperpage}{17}
+\indexentry{\texttt  {sum}|hyperpage}{17}
+\indexentry{\texttt  {sum}|hyperpage}{17}
+\indexentry{\texttt  {do()}|hyperpage}{18}
+\indexentry{density|hyperindexformat{\defidx}}{21}
+\indexentry{\texttt  {densityplot()}|hyperpage}{21}
+\indexentry{\texttt  {histogram()}|hyperpage}{21}
+\indexentry{\texttt  {mosaic}|hyperpage}{21}
+\indexentry{probability density function|hyperindexformat{\defidx}}{22}
+\indexentry{density function|hyperindexformat{\defidx}}{22}
+\indexentry{pdf|hyperindexformat{\see{probability density function}}}{22}
+\indexentry{\texttt  {integrate()}|hyperpage}{23}
+\indexentry{\texttt  {antiD()}|hyperpage}{24}
+\indexentry{\texttt  {mosaic}|hyperpage}{24}
+\indexentry{cumulative distribution function|hyperindexformat{\defidx}}{24}
+\indexentry{cdf|hyperindexformat{\see{cumulative distribution function}}}{24}
+\indexentry{kernel|hyperindexformat{\defidx}}{25}
+\indexentry{parameter|hyperpage}{29}
+\indexentry{triangle distribution|hyperindexformat{\defidx}}{30}
+\indexentry{triangular distribution|hyperindexformat{\see{triangle distribution}}}{30}
+\indexentry{\texttt  {triangle}|hyperpage}{30}
+\indexentry{\texttt  {plotDist}|hyperpage}{30}
+\indexentry{\texttt  {mosaic}|hyperpage}{30}
+\indexentry{uniform distribution|hyperindexformat{\defidx}}{31}
+\indexentry{exponential distribution|hyperindexformat{\defidx}}{33}
+\indexentry{Gamma distribution|hyperindexformat{\defidx}}{34}
+\indexentry{Weibull distribution|hyperindexformat{\defidx}}{34}
+\indexentry{normal distribution|hyperindexformat{\defidx}}{36}
+\indexentry{\texttt  {xpnorm()}|hyperpage}{38}
+\indexentry{\texttt  {qnorm()}|hyperpage}{38}
+\indexentry{Beta distribution|hyperindexformat{\defidx}}{38}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{40}
+\indexentry{\texttt  {MASS}|hyperpage}{40}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{40}
+\indexentry{\texttt  {histogram()}|hyperpage}{41}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{41}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{42}
+\indexentry{\texttt  {MASS}|hyperpage}{42}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{43}
+\indexentry{dice|hyperindexformat{\exampleidx}}{44}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{45}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{45}
+\indexentry{quantile-quantile plot|hyperpage}{47}
+\indexentry{\texttt  {qqmath()}|hyperpage}{47}
+\indexentry{\texttt  {qqmath()}|hyperpage}{50}
+\indexentry{\texttt  {qqmath()}|hyperpage}{51}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{54}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{54}
+\indexentry{\texttt  {fitdistr()}|hyperpage}{55}
+\indexentry{\texttt  {HELPrct}|hyperpage}{55}
+\indexentry{\texttt  {qqmath()}|hyperpage}{55}

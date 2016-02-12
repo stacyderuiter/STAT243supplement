@@ -1,0 +1,30 @@
+\contentsline {chapter}{\numberline {1}Random Variables and Probability}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Key Definitions and Ideas}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Calculating Probabilities Empirically}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}Calculating Probabilities Theoretically}{8}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}The Three Probability Axioms}{8}{subsection.1.3.1}
+\contentsline {subsubsection}{Notation Notes}{8}{section*.1}
+\contentsline {subsection}{\numberline {1.3.2}Other Probability Rules}{9}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}Conditional Probability}{12}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Independence}{16}{subsection.1.4.1}
+\contentsline {chapter}{\numberline {2}Densities}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Density histograms, density plots, density functions}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}Working with Probability Density Funcitons}{25}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Kernels}{25}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}The mean of a continuous random variable}{26}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}The variance of a continuous random variable}{28}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Quantiles}{29}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Some Important Families of Distributions}{29}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Triangle Distributions}{30}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Uniform Distributions}{31}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Exponential Distributions}{33}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Gamma and Weibull Distributions}{34}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Normal Distributions}{36}{subsection.2.3.5}
+\contentsline {subsubsection}{The 68-95-99.7 Rule}{37}{section*.6}
+\contentsline {subsection}{\numberline {2.3.6}Beta Distributions}{38}{subsection.2.3.6}
+\contentsline {section}{\numberline {2.4}Fitting Distributions to Data}{39}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Maximum Likelihood}{43}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}The method of moments}{45}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}Quantile-Quantile Plots}{47}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Normal-Quantile Plots}{47}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Other distributions}{51}{subsection.2.5.2}

@@ -73,8 +73,8 @@
 \lhead[\sf \thepage]{\sf \thechapter. \leftmark}
 \rhead[\sf \thechapter. \leftmark]{\sf \thepage}
 \cfoot{}
-\lfoot[\sf Last Modified: \today]{\sf Math 241 : Spring 2015 : DeRuiter}
-\rfoot[\sf Math 241 : Spring 2015 : DeRuiter]{\sf Last Modified: \today}
+\lfoot[\sf Last Modified: \today]{\sf STAT243 : Spring 2016 : DeRuiter}
+\rfoot[\sf STAT243 : Spring 2016 : DeRuiter]{\sf Last Modified: \today}
 
 \pagestyle{fancy}
 
@@ -181,7 +181,6 @@ require(lattice)
 require(grid)
 require(Stob)
 require(vcd)
-#require(fastR)
 require(abd)
 require(knitr)
 require(alr3)
@@ -212,16 +211,16 @@ knit_hooks$set(document = function(x) {
 			   x, fixed = TRUE) 
 }) 
 # to knit this file:
-# knit("Math241-S15.Rnw")
+# knit("STAT243-S16.Rnw")
 @ 
 
 %%%%%%%%%%%%%%%%%%%%%% title page info %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\title{Math 241: Engineering Statistics}
+\title{STAT243: Intro Stats}
 
-\author{S DeRuiter \& R Pruim (based on an original by R Pruim)}
+\author{S DeRuiter (slightly modified from an original by R Pruim)}
 
-\date{Spring 2015}
+\date{Spring 2016}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeindex
@@ -231,7 +230,7 @@ knit_hooks$set(document = function(x) {
 \rhead[\sf \thechapter. \leftmark]{\sf \thepage}
 
 \begin{document}
-%\SweaveOpts{concordance=TRUE}
+
 
 \maketitle
 
@@ -247,43 +246,12 @@ knit_hooks$set(document = function(x) {
 %  main content starts here 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<<ch0, child="Math241-Chap0.Rnw">>=
-@
-
-<<child="Math241-Graphical.Rnw">>=
+<<prob, child="STAT243-Probability.Rnw">>=
 @
  
-<<child="Math241-Numerical.Rnw">>=
-@
-
-<<child="Math241-Probability.Rnw">>=
+<<dens, child="STAT243-Densities.Rnw">>=
 @
  
-<<child="Math241-Densities.Rnw">>=
-@
- 
-% <<child="Math241-Transformations.Rnw">>=
-% @
-% 
-<<child="Math241-Propagation.Rnw", eval=TRUE>>=
-@
-
-<<child="Math241-Uncertainty-CLT.Rnw">>=
-@
-
- 
-<<child="Math241-SimpleLinear.Rnw", eval=TRUE>>=
-@
- 
-<<child="Math241-NonLinear.Rnw", eval=TRUE>>=
-@
- 
-<<child="Math241-HypothesisTesting.Rnw", eval=TRUE>>=
-@
- 
-% <<child="Math241-MoreExamples.Rnw", eval=TRUE>>=
-% @
-
 \backmatter
 
 \bibliographystyle{amsalpha}
